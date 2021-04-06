@@ -1,0 +1,86 @@
+h1 {
+    text-align: left;
+    color: darkgoldenrod;
+    font-family: cursive;
+}
+
+#Text {
+    font-family: Algerian;
+    color: darkmagenta;
+    font-size: 25px;
+}
+
+body {
+    text-align: center;
+    background-color: violet;
+    margin: 30px;
+    scroll-behavior: smooth;
+}
+
+.list {
+    float: left;
+    color: cyan;
+    padding-top: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 10px;
+    font-family: Algerian;
+    font-size: 20px;
+}
+
+.list:hover {
+    background-color: pink;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    z-index: 10;
+    top: 10px;
+    right: 150px;
+    color: chartreuse;
+    text-align: center;
+    font-size: 15px;
+    background-color: white;
+}
+
+#number {
+    text-align: center;
+    font-family: monospace;
+    color: darkblue;
+    font-size: 30;
+}
+
+img {
+transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+.devicer {
+    width: 20em;
+    display: block;
+    height: 5px;
+    background-color: blue;
+    margin: 60px auto 0;
+    }
+
+.images {
+    width: 600;
+}
+
+#Heading {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#home {
+  margin-top: 50px;
+}
+
+#contact-me h3 {
+  display: inline;
+}
